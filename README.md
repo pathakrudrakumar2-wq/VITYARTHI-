@@ -51,12 +51,6 @@ Calculates and prints total spending
  5. Exit
 Closes the application
 ________________________________________
- File Structure
- Project Folder
-│
-├── MONEY MANAGEMENT SYSTEM.py
-└── expenses.csv 
-________________________________________
  Notes & Limitations
 •	No editing or deleting previous expenses
 •	User input must be numeric for amounts and budget
@@ -66,7 +60,6 @@ ________________________________________
 •	Monthly expense reports
 •	Category-wise spending summary
 •	Data visualization with charts
-•	GUI or web interface
-•	Export to PDF or Excel
+
 
 
