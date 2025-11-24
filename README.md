@@ -63,6 +63,6 @@ ________________________________________
 
 ________________________________________
 Screenshot
-<img width="834" height="870" alt="Screenshot 2025-11-24 184704" src="https://github.com/user-attachments/assets/3130911a-4dd2-4f5a-a56f-49b8e111ca21" />
-<img width="441" height="463" alt="Screenshot 2025-11-24 184729" src="https://github.com/user-attachments/assets/59911fa8-a97a-48bc-83a7-f09e40752775" />
+<img width="667" height="882" alt="Screenshot 2025-11-24 185833" src="https://github.com/user-attachments/assets/3b7150f4-6627-47a0-bc08-816247c77288" />
+<img width="469" height="401" alt="Screenshot 2025-11-24 185851" src="https://github.com/user-attachments/assets/2fd9ace2-0a23-441a-9f04-0b1c50d64f1a" />
 
