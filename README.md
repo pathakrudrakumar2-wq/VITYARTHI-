@@ -1,5 +1,8 @@
 # VITYARTHI-
-Smart Expense Tracker — Money Management System
+___________Smart Expense Tracker — Money Management System_________
+
+
+
 A simple Python-based command-line application that helps users record expenses, track spending habits, and compare total expenses against a monthly budget.
 This tool stores expense data in a CSV file, making it lightweight, portable, and easy to analyze later.
 ________________________________________
