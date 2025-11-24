@@ -61,5 +61,8 @@ ________________________________________
 •	Category-wise spending summary
 •	Data visualization with charts
 
-
+________________________________________
+Screenshot
+<img width="834" height="870" alt="Screenshot 2025-11-24 184704" src="https://github.com/user-attachments/assets/3130911a-4dd2-4f5a-a56f-49b8e111ca21" />
+<img width="441" height="463" alt="Screenshot 2025-11-24 184729" src="https://github.com/user-attachments/assets/59911fa8-a97a-48bc-83a7-f09e40752775" />
 
