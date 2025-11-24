@@ -53,7 +53,7 @@ ________________________________________
  Project Folder
 │
 ├── MONEY MANAGEMENT SYSTEM.py
-└── expenses.csv   # auto-generated
+└── expenses.csv 
 ________________________________________
  Notes & Limitations
 •	No editing or deleting previous expenses
