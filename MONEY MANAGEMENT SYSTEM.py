@@ -63,7 +63,7 @@ def check_budget():
 # input reciver from user
 while True:
     print("----- SMART EXPENSE TRACKER -----")
-    print("1. Add Expense \n2. View Expenses \n3. Show Total Expenses \n4. Check Budget\n5. Exit")
+    print("1. Add Expense \n2. View Expenses \n3. Show Total Expenses \n4. Check Budget\n")
 
     choice = input("Enter your choice = ")
 
@@ -78,11 +78,10 @@ while True:
 
     elif (choice == "4"):
         check_budget()
-
-    elif (choice == "5"):
         print("Exit")
         break
 
     else:
         print("Invalid choice! \n Try again.\n")
+
 
