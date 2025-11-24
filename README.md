@@ -29,6 +29,8 @@ ________________________________________
 ________________________________________
  How to Use
 When the script runs, you’ll see a menu:
+
+
 ----- SMART EXPENSE TRACKER -----
 1. Add Expense
 2. View Expenses
