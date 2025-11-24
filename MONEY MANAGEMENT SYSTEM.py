@@ -42,7 +42,7 @@ def total_expenses():
         next(reader)  # here the next fuction is used to skip the header
         for row in reader:
             total += float(row[1])
-        print(total)
+        return (total)
 
 
 # Function to check the budget status
@@ -85,3 +85,4 @@ while True:
 
     else:
         print("Invalid choice! \n Try again.\n")
+
