@@ -35,8 +35,8 @@ When the script runs, you’ll see a menu:
 1. Add Expense
 2. View Expenses
 3. Show Total Expenses
-4. Check Budget
-5. Exit
+4. Check Budget and Exit
+   
 1.  Add Expense
 •	Enter amount spent
 •	Enter category (ex: food, travel, shopping, etc.)
@@ -48,8 +48,8 @@ Calculates and prints total spending
 •	Enter your monthly budget
 •	Compares total expenses with the budget
 •	Warns if you've exceeded your limit
- 5. Exit
-Closes the application
+and Exit
+and Closes the application
 ________________________________________
  Notes & Limitations
 •	No editing or deleting previous expenses
