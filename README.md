@@ -59,7 +59,7 @@ ________________________________________
 •	User input must be numeric for amounts and budget
 •	No category validation—free text allowed
 ________________________________________
- Future Enhancements (Optional Ideas)
+ Future Enhancements
 •	Monthly expense reports
 •	Category-wise spending summary
 •	Data visualization with charts
